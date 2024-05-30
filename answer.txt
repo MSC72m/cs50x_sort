@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: it has best performance on the larger data sets meanwhile having a consistent performance on other data sets too.
+
+sort2 uses: Merge sort
+
+How do you know?: compared to sort 3 it has better performance on reversed data sets and sorted data sets. and has bubble sort has the ability exit earlier it make sense to be like that
+
+sort3 uses: Selection sort
+
+How do you know?: its the only one left and has one of the worst performances in all of them
